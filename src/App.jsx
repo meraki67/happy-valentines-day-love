@@ -367,7 +367,7 @@ export default function App() {
                 transition={{ duration: 0.8, delay: 0.28 }}
                 className="mt-8 flex flex-wrap gap-3"
               >
-                <button
+                {/* <button
                   onClick={openSurprise}
                   className="group relative inline-flex items-center gap-2 px-5 py-3 rounded-2xl bg-gradient-to-r from-pink-500 via-rose-500 to-fuchsia-600 shadow-[0_0_40px_rgba(255,77,109,0.6)]
  hover:brightness-110 transition shadow-glow"
@@ -375,7 +375,7 @@ export default function App() {
                   <Sparkles className="size-5" />
                   <span className="font-semibold">Open the Surprise</span>
                   <span className="absolute -inset-0.5 rounded-2xl blur-xl bg-pink-500/20 opacity-0 group-hover:opacity-100 transition" />
-                </button>
+                </button> */}
 
                 <a
                   href="#letter"
