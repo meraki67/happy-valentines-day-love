@@ -24,15 +24,20 @@ const YOUR_NAME = "Dave"; // e.g. "Dave Kenneth"
 const ANNIV_DATE = "March 08"; // optional
 const LETTER = `Hi ${GIRLFRIEND_NAME},
 
-Happy Valentine’s Day! ❤️
+Happy Valentine’s Day Love ko! ❤️
 
-I just want to remind you how grateful I am for you. Thank you for being my peace, my best friend, and my favorite person.
-Every moment with you feels special, and I’m excited for all the memories we’ll still create.
+Hindi na ako gagawa ng long message kasi ito na yun eh hehehe, I just want to remind you how grateful I am for you. Thank you for being my peace, my best friend, and my favorite person.
 
-I love you—today and always.
+Every moment with you feels special, and I’m excited for all the memories we’ll still create. Love I'm sorry if ito lang nakayanan kong ibigay sa iyo. A little effort but hoping still you gonna appreciate it I know malala na ung pinagdadaanan natin sa ngayon. Pasensya na love kung wala man lang akong gift or anything that would make your valentines day more special. All I have is this. A little simple website to express my feelings to you since all I have is this knowledge and effort to make this. For almost 2 years na nagkasama tayo marami na tayo nasubukang pagsubok, pero itong challenges na pinagdadaanan natin ang pinakamalala siguro. I know hindi madali ang pinagdadaanan natin ngayon, pero please know that I’m here for you, always. We can get through this together, just like we’ve overcome everything else. Alam kong hindi ito ang ideal na Valentine’s Day na gusto nating dalawa, pero sana maramdaman mo pa rin yung pagmamahal ko sa iyo kahit ganito ang setup natin ngayon. Babawi ako sa iyo as soon as possible I get my first salary. I promise to make it up to you and give you the love and care you deserve. I'm very sorry love if nangyayari sa atin ito ngayon. I just want you to know that I love you so much, and I’m committed to making things better between us. We’ve been through so much together, and I believe in us. Let’s keep supporting each other and working through this, because you mean the world to me. Realtak yun. It just I hope you can understand my situation and the fact that I’m doing my best, and I want to make things right. All I can do now is to apologize and accept the consequences of my actions. Whether you choose to leave me or not. I fully understand if you need time or space, but please know that I’m here whenever you’re ready to talk. I want to listen to your feelings and concerns, and work together to find a way forward. I love you so much, and I’m willing to do whatever it takes to make things right between us. Thank you for being patient with me, and for giving me the chance to apologize. I hope we can get through this together, and come out stronger on the other side. Pero syempre don't wag huwag ayoko! Anyways, Love I hope I'll make you a smile a little bit para sa araw na ito. I know this is simple but please. PLEASE accept this as a token of my love and effort for you. I know you didn't deserve all of this shits happening to us. But I believe this isn't too late love, I will make things right in the right time. I LOVE YOU SO MUCH LOVE and next month is our biggest day. Thank you so much love for the unwavering love, support, trust, believe, and care that you have given to me. I am so truly grateful to have you in my life. Pinakabiggest decision ko sa buhay ko? Choosing you. And I will keep choosing you, every single day, for the rest of my life. Kaya wag na wag mong sasabihin na mali ung mga nagiging decision ko. Dahil higit sa lahat, sa mga panahong sumusuko ako sa ugali mo, ikaw at ikaw parin ang pinipili kong makasama ang buhay dahil alam ko sa tamang panahon, mababago mo rin ung mga ayaw ko sa ugali mo, at gayun din ako mababago rin ung mga bagay na kinaiinisan mo at kinaayawan mo. hehehe I'll try ^_^. Love once again, Happy Valentine’s Day! I hope this day brings you as much happiness and love as you have brought into my life. You deserve all the love and happiness in the world, and I’m so lucky to be the one giving it to you. Thank you so much for being you, and for sharing your love with me. I can’t wait to see what the future holds for us, and to continue building our beautiful love story together. Mwah mwah 😘😘😘
 
-Love,
-${YOUR_NAME}
+I love you—today, always and forever.
+
+PS: Please take care of yourself, and remember that I’m here for you no matter what. If you ever need anything, just let me know. I want to support you in any way I can, and be there for you through thick and thin. You’re not alone, love. We’re in this together, and I’m committed to making things better between us.
+
+PPS: Check mo pa ibang website and enjoy viewing my valentines website for you. Feel free to record and post it into your tiktok hehehe to highlight how ka effort ang imong boyfriend.
+
+Your Love,
+${YOUR_NAME} ❤️😘
 `;
 
 export default function App() {
